@@ -45,7 +45,7 @@ header nav a:hover{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/86.jpg');
 
-    height: 400px;
+    height: 550px;
     background-size:cover;
 
     display: flex;
@@ -55,16 +55,17 @@ header nav a:hover{
 
 }
 
-.isekai-maou .descricao{
+.anime-principal .descricao{
     margin-top: 10px;
     margin-bottom: 40px;
 }
 
-.isekai-maou .titulo{
+.anime-principal .titulo{
     margin-top: 15%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
+
 
 .botao{
     background-color: rgba(0,0,0,.50);
@@ -92,7 +93,7 @@ header nav a:hover{
     margin-left: 20px;
 }
 
-.isekai-maou .container{
+.anime-principal .container{
     width: 70%;
 }
 
