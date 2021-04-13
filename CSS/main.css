@@ -116,3 +116,10 @@ header nav a:hover{
     font-size: 30px;
     text-align: center;
 }
+
+footer{
+    text-align: center;
+    text-decoration:none;
+    color: #AAA;
+    margin-right: 10px;
+}
